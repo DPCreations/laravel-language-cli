@@ -1,8 +1,4 @@
 # laravel-language-cli
-
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Total Downloads][ico-downloads]][link-downloads]
-
 A handy little CLI for managing and simplifying your work with Laravel translations.
 
 ## Installation
