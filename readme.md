@@ -1,4 +1,6 @@
 # laravel-language-cli
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDPCreations%2Flaravel-language-cli.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDPCreations%2Flaravel-language-cli?ref=badge_shield)
+
 A handy little CLI for managing and simplifying your work with Laravel translations.
 
 ## Installation
@@ -27,3 +29,6 @@ $ php artisan lang:make home
 ## License
 
 Released under the MIT license.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDPCreations%2Flaravel-language-cli.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDPCreations%2Flaravel-language-cli?ref=badge_large)
