@@ -2,6 +2,7 @@
     "name": "dpcreations/laravel-language-cli",
     "description": "A handy little CLI for managing and simplifying your work with Laravel translations.",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Daniel Poulsen",
@@ -20,7 +21,6 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0",
-        "mockery/mockery": "^1.1",
         "orchestra/testbench": "~3|~4",
         "sempro/phpunit-pretty-print": "^1.0"
     },
