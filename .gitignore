@@ -1,1 +1,4 @@
 vendor
+.DS_STORE
+.styleci.yml
+.phpunit.result.cache
